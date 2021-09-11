@@ -23,7 +23,7 @@ Use it as you want
 
 
 ## Screenshots
-<img src="img/p1.png">
+<img src="img/p1png.PNG">
 <img src="img/p2.png">
 <img src="img/p3.png">
 
